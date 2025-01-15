@@ -19,6 +19,8 @@ const About = () => {
             powerful tools. At Hustle Hub, we believe in turning dreams into
             actionable plans and making productivity an enjoyable journey.
           </p>
+          <br />
+          <p>Heyy!! I add new text to this page...</p>
         </div>
       </div>
     </div>
